@@ -1,2 +1,2 @@
 # hello-world
-first hello wolrd github
+first hello world from github
